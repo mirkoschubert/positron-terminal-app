@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/>
-  <a href="https://github.com/mirkoschubert/positron-terminal-app/releases/latest">
-  	<img src="https://img.shields.io/github/package-json/v/badges/shields.svg?style=flat-style" />
-  </a>
+ [![GitHub license](https://img.shields.io/github/license/mirkoschubert/positron-terminal-app.svg)](https://github.com/mirkoschubert/positron-terminal-app/blob/master/LICENSE.md)
 </p>
 
 <p align="center">A clean and minimal UI theme</p>
