@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/>
-  <a href="https://github.com/mirkoschubert/positron-terminal-app/blob/master/LICENSE.md"
+  <a href="https://github.com/mirkoschubert/positron-terminal-app/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/mirkoschubert/positron-terminal-app.svg" />
   </a>
 </p>
