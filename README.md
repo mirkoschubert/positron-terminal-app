@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center">A clean and minimal UI theme</p>
+<p align="center">A clean and colorful UI theme</p>
 <p align="center">based on the <a href="https://github.com/IBM-Design/colors">IBM Design Language Color Library</a></p>
 
 ---
